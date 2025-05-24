@@ -40,7 +40,7 @@ namespace FitnessClub
             }
             else
             {
-                MessageBox.Show("Неверный логин или пароль!");
+                MessageBox.Show("Неврный логин или пароль!");
             }
         }
 
